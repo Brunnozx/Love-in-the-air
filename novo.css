@@ -1,0 +1,42 @@
+body {
+    background-image: linear-gradient(to left, pink, purple, rgb(253, 99, 124), rgb(255, 12, 255));
+    animation: body 5s infinite alternate;
+}
+
+h1 {
+    color: rgb(0, 0, 0);
+    font-family: verdana;
+    text-align: center;
+}
+
+h2 {
+    color: rgb(0, 0, 0);
+    font-family: verdana;
+    font-size: 18px;
+    margin: 35px 20px;
+    text-align: justify;
+    
+}
+
+div {
+    background-color: aliceblue;
+    border-radius: 35px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 50px;
+    text-align: center;
+}
+
+a {
+    text-align: center;
+    font-family: Verdana;
+    font-size: 18px;
+    text-decoration: none;
+    background-image: linear-gradient(to left, pink, purple, rgb(253, 99, 124), rgb(255, 12, 255));
+    color: rgb(0, 0, 0);
+    border-radius: 20px;
+    padding: 8px 15px;
+}
+
